@@ -1,0 +1,1 @@
+{"version":3,"sources":["Post.css"],"names":[],"mappings":"AAAA,UACE,iBACF,CAEA,cACE,YACF","file":"main.82ebd36e.chunk.css","sourcesContent":[".comments {\r\n  margin-left: 130px;\r\n}\r\n\r\n.post_wrapper {\r\n  padding: 20px;\r\n}\r\n"]}
